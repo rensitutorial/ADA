@@ -1,6 +1,6 @@
 import java.util.*;
 
-class SelectionSort {
+class Pr1 {
     public static void main(String args[]) {
         int n = 5000;
         int a[] = new int[n];
